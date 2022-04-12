@@ -2,21 +2,19 @@
 
 <p align="left"> 
   Olá visitante! Me chamo Alan Gomes da Silva e sou <strong>apaixonado</strong> por programação!<br>
-  Estou no segundo ano do ensino médio e atualmente estou focado em aprender e praticar front-end.<br>
+  <br>
+  Estou no segundo ano do ensino médio e atualmente estou focado em aprender e praticar front-end! Pretendo ter uma boa base de front-end antes de terminar o ensino médio.<br>
   
   
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  👨‍💻 Linguagens: <strong>Tenho um bom conhecimento de CSS e HTML, atualmente aperfeiçoando JavaScript.</strong>
 </p>
 
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  📞 Minhas principais redes sociais ⤵️
 </p>
 
 <p align="left">
@@ -35,3 +33,8 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
+
+<div>
+<a href="https://github.com/alangomes01">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alangomes01&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+</div>
