@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<center><h1>01001111 01101100 11100001 00100001 </h1></center>
+<marquee><h1>01001111 01101100 11100001 00100001 </h1></marquee>
 
 <p align="left"> 
   Olá visitante! Me chamo Alan Gomes da Silva e sou <strong>apaixonado</strong> por programação!<br>
